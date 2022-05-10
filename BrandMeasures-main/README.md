@@ -23,7 +23,7 @@ This is where our system comes in. The system can take any audio file of such a 
 - Data preprocessing
 - feature engineering
 - logging
-- regex
+- Flashtext vs Regex
 - model deployment
 
 ## What i Learnt
