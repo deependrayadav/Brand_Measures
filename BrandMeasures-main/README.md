@@ -33,4 +33,4 @@ This is where our system comes in. The system can take any audio file of such a 
 - Different libraries and techniques available to process text and audio
 - Importance of such systems.
 
-### Special thanks to ineuron for teaching and walking me through this real life end to end project.
+### Special thanks to ineuron for making me available this real life end to end project.
